@@ -32,6 +32,9 @@ Using propositional Logic defines the possibility of agent's next move.
 Using wumpus_kb.ask_if_true() to get the result based on TRUE value.
 
 ## PROGRAM
+### Developed By: Jayashree Rao V
+### Register No: 212220230023
+
 ```python
 from utils import *
 from logic import *
